@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "spongebob"]
+	path = spongebob
+	url = https://github.com/cran/spongebob
+	shallow = true
+	registered = true
